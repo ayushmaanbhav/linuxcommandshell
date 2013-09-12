@@ -1,0 +1,17 @@
+  ls  
+  pwd 
+
+
+cat < shell.c | grep write | sort -r > out.txt
+
+
+	cd	..	
+pwd
+
+	cd
+
+ls|grep a|sort -r
+
+
+exit
+
