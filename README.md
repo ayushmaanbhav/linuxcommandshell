@@ -24,5 +24,4 @@ Added Features:
 	4. Supports commands in mydir and bin folder 
         (preference->mydir->bin)
 		    I have first searched in mydir for command implementation
-             then the bin folder. If not present the corresponing error is 
-printed.
+             then the bin folder. If not present the corresponing error is printed.
