@@ -7,6 +7,7 @@ commands using process forking in C,
 supports file redirection and pipelining.
 
 Added Features:
+
 	1. Parsing of command may contain white spaces at permitted 
         positions
 			Can parse the commands with the use of trim and strtok 
